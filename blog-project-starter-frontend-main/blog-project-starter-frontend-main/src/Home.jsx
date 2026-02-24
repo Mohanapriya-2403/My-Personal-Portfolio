@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Footer from './Footer' 
 import BlogProfileImage from "./assets/Blog Website Design.png"
 import CSS from "./assets/css-3.png"
 import HTML from "./assets/html.png"
@@ -11,7 +10,7 @@ import NODE from "./assets/node-js.png"
 import P1 from "./assets/p1.jpg"
 import P2 from "./assets/p2.png"
 import P3 from "./assets/p3.png"
-import BlogImage from "./assets/blogImage.png"
+
 
 function Home() {
     const navigate = useNavigate();

@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from './Footer';
+
 // Ensure your photo is in src/assets/ and named exactly myphoto.jpg
 import ProfileImg from './assets/myphoto.jpg'; 
 
